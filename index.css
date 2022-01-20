@@ -1,0 +1,48 @@
+body{
+    background-image: url('/Resources/b3.jpg');
+}
+
+#content1{
+    padding: 50px;
+    background-color: rgb(235, 235, 235); 
+  
+}
+
+#content2{
+    padding: 50px;
+    background-color: rgb(235, 235, 235);
+  
+}
+
+#Topic{
+    text-align: center;
+    padding-top: 100px;
+    color: rgb(0, 0, 0);
+}
+
+#tpc{
+    font-size: 5rem;
+}
+
+#navcntnt{
+    font-size: xx-large;
+}
+
+
+#navigation{
+    width: 100%;
+    padding: 20px;
+    justify-content: center;
+    background-color: rgba(85, 85, 85, 0.452);  
+    backdrop-filter: blur(5px);
+    position: fixed;
+    animation-name: starter;
+    animation-duration: 1s;
+    animation-fill-mode: forwards;
+}
+
+
+
+#p1{
+    padding: 10px; 
+}
